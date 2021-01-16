@@ -18,7 +18,7 @@ const cmd = require("node-cmd");
 const config = require("./config.json");
 const prefix = config.prefix;
 
-/////// const by PANDA for 100 token ///////
+/////// const by PANDA for 300 token ///////
 
 const PANDA = new Discord.Client();
 const PANDA2 = new Discord.Client();
