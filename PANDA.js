@@ -11714,12 +11714,12 @@ PANDA100.on("message", message => {
 
 /// by PANDA
 
-PANDA.login("");
-PANDA2.login("");
-PANDA3.login("");
-PANDA4.login("");
-PANDA5.login("");
-PANDA6.login("");
+PANDA.login("ODEzMTEwMTEzODI5MTI2MjE1.YDbieg.NZeucSwKPziCUEVqz8EiXgF9kPI");
+PANDA2.login("ODEzMTEwNTQ3MjcyODI2OTIx.YDf9yg.BDVGYPyUBj1bySYxM3nQwfuOEVs");
+PANDA3.login("ODEzMTExNTg1NjgwNjU0MzY2.YDgEVQ.-2Z6DfCsdbutJ9b3yZu4l4Kh9-s");
+PANDA4.login("ODEzMTEyMzAxMjEzMTg4MDk2.YDgInw.emRJQP1kXjCHYkoQ_nEeZ9oNQo8");
+PANDA5.login("ODEzMTEyODk3ODE4ODUzMzg2.YDgROA.JvVLV0PFIXQwfJyVC7U21tZIlvE");
+PANDA6.login("ODEzMTA5NDc0MzY4Njg0MTI0.YDbhdw.eXbzE-tku8zB_cpLo7MqGORobPg");
 PANDA7.login("");
 PANDA8.login("");
 PANDA9.login("");
